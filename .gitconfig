@@ -1,0 +1,7 @@
+[user]
+	name = vesap
+	email = vesapka@pm.me
+[core]
+	editor = vim
+[credential "https://course-gitlab.tuni.fi"]
+	provider = generic
